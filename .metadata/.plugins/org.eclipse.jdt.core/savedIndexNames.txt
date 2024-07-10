@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+E:\USUARIO - - - - -\Área de Trabalho\CURSO JAVA - ECLIPSE\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+298226988.index
+3635438749.index
+950989839.index
